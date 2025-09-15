@@ -1,23 +1,6 @@
-</h1>
-<h1 align="center">Priviet 👋 I'm Rodrigo Augusto</h1>
-
-<h4 align="left">🌟I’m currently pursuing a degree in Software Engineering, focused on improving my programming skills and exploring different areas of the IT industry. My academic and personal journey is all about building a strong foundation in software development while diving into emerging technologies. I'm especially passionate about Artificial Intelligence and Cybersecurity.
-</h4>
-
-
-<!-- about me -->
- <h3 align="left">💫 About Me</h3>
-<h4> 
- 🌱 I'm currently developing my programming skills while exploring cloud computing and digital security, always seeking to understand what happens "behind the scenes" of technology.</br
- ⚡ I have a keen interest in quantum computing, artificial intelligence, automation, data science, and information security — especially in the world of ethical hacking.</br>
- 🌍 I speak 🇧🇷 Portuguese, 🇬🇧 English, and I'm learning 🇷🇺 Russian and 🇪🇸 Spanish along the way.</br>
- ✨ I strive for clean and well-crafted solutions.</h4> <div align="left">
-
-
-  <h3>🧲 My socials:</h3>
-  <a href="https://www.linkedin.com/in/augxusto/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFxu5Jm6MQU2szDeuwmZmyQ%3D%3D" target="_blank">
-    <img width="60px" src="https://cdn-icons-png.freepik.com/256/2496/2496097.png?semt=ais_hybrid" alt="LinkedIn" /></a> 
-
+    printf("Priviet 👋 I'm Rodrigo Augusto\n\n");
+    printf("🎓 Software Engineering student");
+    printf("🛡️ Focused on learning and improving skills in Cybersecurity (Red Team)");
 <br/>
 
 
