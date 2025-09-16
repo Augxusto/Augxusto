@@ -22,8 +22,8 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,java,aws,git,vscode" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript" /><br>
-    <img src="https://skillicons.dev/icons?i=bash,kali" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css" /><br>
+    <img src="https://skillicons.dev/icons?i=bash,linux" /><br>
     <img src="https://skillicons.dev/icons?i=idea" /><br>
 </div>
 
