@@ -22,7 +22,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,java,aws,git,vscode" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,mysql" /><br>
     <img src="https://skillicons.dev/icons?i=bash,linux" /><br>
     <img src="https://skillicons.dev/icons?i=idea" /><br>
 </div>
