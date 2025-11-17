@@ -3,6 +3,13 @@
     printf("🛡️ Focused on learning and improving skills in Cybersecurity (Red Team)");
 <br/>
 
+<div align="center">
+  <a href="https://tryhackme.com/p/akawave" target="_blank">
+    <img 
+      src="https://tryhackme-badges.s3.amazonaws.com/akawave.png" 
+      alt="TryHackMe Badge"
+  </a>
+</div>
 
 <!-- git stat-->
 <h3 align="center">🌱 Github Status</h3>
@@ -11,6 +18,7 @@
   <img width="435" src="https://github-readme-stats.vercel.app/api?username=Augxusto&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=10"/>
   <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augxusto&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
+
 
 <br/><br/>
 
