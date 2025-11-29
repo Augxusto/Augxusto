@@ -1,4 +1,4 @@
-    printf("Priviet 👋 I'm Rodrigo Augusto\n\n");
+    printf("Priviet 👋 I'm Rodrigo Augusto");
     printf("🎓 Software Engineering student");
     printf("🛡️ Focused on learning and improving skills in Cybersecurity (Red Team)");
 <br/>
