@@ -11,11 +11,15 @@
   </a>
 </div>
 
+<br/><br/>
+
 <!-- git stat-->
+<h3 align="center">🌱 Github Status</h3>
 <br>
 <div align="center">
-  <img width="435" src="https://github-readme-stats.vercel.app/api?username=Augxusto&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=10"/>
-  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augxusto&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  <img width="330" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=augxusto&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  <img width="435" src="https://github-readme-stats-sigma-five.vercel.app/api?username=augxusto&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=10">
+
 </div>
 
 
