@@ -5,9 +5,9 @@
 
 <div align="center">
   <a href="https://tryhackme.com/p/akawave" target="_blank">
-    <img 
-      src="https://tryhackme-badges.s3.amazonaws.com/akawave.png" 
-      alt="TryHackMe Badge"
+    <img  
+      src="https://tryhackme-badges.s3.amazonaws.com/akawave.png"
+        alt="TryHackMe Badge"
   </a>
 </div>
 
