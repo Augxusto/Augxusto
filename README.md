@@ -27,7 +27,7 @@ Software Engineering student and aspiring cybersecurity professional, focused on
   <li>Languages: C, Java, Bash</li>
   <li>Systems: Linux, Windows</li>
   <li>Networking: TCP/IP, DNS, DHCP, Packet Analysis</li>
-  <li>Tools: Git, Splunkp</li>
+  <li>Tools: Git, Splunk</li>
   <li>Cloud: AWS</li>
 </ul>
 
