@@ -8,7 +8,7 @@
 <h1>Rodrigo Augusto</h1>
 
 <p>
-Software Engineering student and aspiring cybersecurity professional, focused on low-level systems, networking, and ethical hacking. Currently building knowledge in operating systems, security analysis, and cloud technologies.
+Software Engineering student and aspiring cybersecurity researcher, focused on vulnerability research, offensive security, digital forensics and incident response (DFIR), and malware analysis. Exploring attack techniques, system exploitation, network security, and threat analysis through hands-on research, experimentation, and security projects.
 </p>
 
 <h2> Areas of Interest</h2>
